@@ -24,7 +24,7 @@
 
 ## 👋 Introduction
 
-I'm **Sir Martins**, a technology professional building my career across **Data Analysis, Cybersecurity, SAP consulting and technology education**.
+I'm **Sir Martins**, a technology professional building my career across **Data Analytics, Cybersecurity, SAP consulting and technology education**.
 
 My interests sit at the intersection of **data, security, artificial intelligence and practical technology education**. I enjoy learning through hands-on experimentation, developing practical technical skills, mentoring beginners and exploring how technology can be applied to real-world problems.
 
@@ -32,22 +32,22 @@ My interests sit at the intersection of **data, security, artificial intelligenc
 
 ## 👨‍💻 About Me
 
-- 📊 Building my career in **Data Analysis** and data-driven problem solving.
+- 📊 Building my career in **Data Analytics** and data-driven problem solving.
 - 🛡️ Building my career in **Cybersecurity** through structured learning and practical labs.
 - 🔐 Developing practical skills in **ethical hacking and security analysis**.
 - 🐧 Enjoy working with **Linux-based environments**, particularly for cybersecurity learning.
 - 🧪 Practising cybersecurity through **controlled and authorized laboratory environments**.
 - 📚 Teaching and mentoring beginners in technology, digital skills and data-related learning.
-- 🤖 Exploring the intersection of **Artificial Intelligence, Data Analysis and Cybersecurity**.
+- 🤖 Exploring the intersection of **Artificial Intelligence, Data Analytics and Cybersecurity**.
 - 🎓 Passionate about helping young people develop relevant and practical digital skills.
 - 🌍 Interested in **digital transformation, technology education and community building**.
 - 🚀 Learning by doing: **Learn → Build → Innovate → Lead → Empower**.
 
 ---
 
-## 📊 Data Analysis
+## 📊 Data Analytics
 
-My current Data Analysis development focuses on turning structured data into useful insights for decision-making and problem solving.
+My current Data Analytics development focuses on turning structured data into useful insights for decision-making and problem solving.
 
 ### Core Areas
 
@@ -175,9 +175,9 @@ Practical notes, learning resources and educational materials developed while bu
 
 ---
 
-### 📊 Data Analysis Projects
+### 📊 Data Analytics Projects
 
-A collection of future data-analysis projects demonstrating data cleaning, analysis, visualization, dashboards and business insights.
+A collection of future data-analytics projects demonstrating data cleaning, analysis, visualization, dashboards and business insights.
 
 **Repository:** `YOUR_DATA_ANALYSIS_REPOSITORY_URL`
 
